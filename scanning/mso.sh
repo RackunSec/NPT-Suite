@@ -39,6 +39,7 @@ protos["ssh2222"]=2222
 protos["ldaps3269"]=3269
 protos["mysql"]=3306
 protos["rdp"]=3389
+protos["cisco-smi"]=4786
 protos["radmin"]=4899
 protos["voip"]=5060
 protos["voips"]=5061
