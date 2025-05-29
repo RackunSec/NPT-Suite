@@ -45,6 +45,7 @@ protos["voip"]=5060
 protos["voips"]=5061
 protos["postgres"]=5432
 protos["adb"]=5555
+protos["vnc"]=5900
 protos["redis"]=6389
 protos["althttp"]=8080
 protos["https8443"]=8443
