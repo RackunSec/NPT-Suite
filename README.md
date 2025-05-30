@@ -1,5 +1,5 @@
 # NPT-Suite
-A collection of network-related penetration testing tools Written in various languages.
+A collection of network-related penetration testing tools written in various languages.
 
 ## Scan Output Organization:
 [Scan Split](scanning/) - Organize very large GNMAP files into individual files.
